@@ -221,3 +221,5 @@ copyright 2017-2023 creativeLabs Łukasz Holeczek.
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/master/LICENSE).
 There is only one limitation you can't re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In the past, we faced some problems with persons who tried to sell CoreUI based templates.
 "# restaurant_frontend_admin_angular" 
+#   r e s t a u r a n t _ f r o n t e n d _ a d m i n _ a n g u l a r  
+ 
